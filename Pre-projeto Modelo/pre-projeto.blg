@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: pre-projeto.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: bibliografia.bib
+Warning--I didn't find a database entry for "mota2012descobrindo"
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 8 entries,
+            6714 wiz_defined-function locations,
+            1211 strings with 9590 characters,
+and the built_in function-call counts, 3427 in all, are:
+= -- 379
+> -- 16
+< -- 28
++ -- 84
+- -- 6
+* -- 149
+:= -- 437
+add.period$ -- 4
+call.type$ -- 10
+change.case$ -- 28
+chr.to.int$ -- 6
+cite$ -- 1
+duplicate$ -- 136
+empty$ -- 370
+format.name$ -- 23
+if$ -- 865
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 88
+newline$ -- 14
+num.names$ -- 5
+pop$ -- 70
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 485
+stack$ -- 1
+substring$ -- 124
+swap$ -- 34
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 22
+(There was 1 warning)
