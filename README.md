@@ -30,7 +30,7 @@ MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32
 > Observação: Quando compilado pela primeira vez, no windows, geralmente demora um pouco, pois ele está pesquisando e instalando as bibliotecas faltantes. 
 
 2. Para instalar o Latex TexStudio no Manjaro:<br/>
-`sudo pacman -S texstudio`<br/>
+`$sudo pacman -S texstudio`<br/>
 > Bibliotecas<br/>
 `$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
 `$yaourt -S abntex2 `<br/>
