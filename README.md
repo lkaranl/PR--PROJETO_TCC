@@ -24,8 +24,15 @@ Siga os seguintes passos:
 
 ## Como instalar editor e bibliotecas?
 Distribuicoes basedas em Arch Linux
-Para instalar o editor Latex TexStudio:
-1. `sudo pacman -S texstudio`
+1. Para instalar o editor Latex TexStudio no Manjaro:
+`sudo pacman -S texstudio`
+
+2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:
+primeiro instale o gerenciador de pacotes Flatpak:
+`$sudo apt install flatpak`
+logo entao o editor
+`$sudo apt install `
+
 
 ## Observações
 
