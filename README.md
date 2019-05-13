@@ -30,7 +30,9 @@ Siga os seguintes passos:
 `$yaourt -S abntex2 `<br/>
 
 2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
-`$sudo apt install texstudio `
+`$sudo apt install texstudio`<br/>
+> Bibliotecas<br/>
+`$sudo apt install texlive-publishers texlive-lang-portuguese texlive-latex-extra texlive-fonts-recommended`
 
 
 ## Observações
