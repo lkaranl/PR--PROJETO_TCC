@@ -22,7 +22,7 @@ Siga os seguintes passos:
 
 > Consulte o [manual de referências](http://get-software.net/macros/latex/contrib/abntex2/doc/abntex2cite-alf.pdf) para entender como manter a bibliografia e fazer citações no seu documento.
 
-## Como instalar editor e bibliotecas?
+## Como instalar editor de texto Latex e bibliotecas?
 * Para usar o Latex você precisa ter instalado na sua máquina um editor de texto Latex, compilador Latex e algumas bibliotecas para o uso de pacotes específicos, como o da ABNT.<br/>
 1. Para instalar o editor Latex TexStudio no Windows 10:<br/>
 Texstudio (Editor de texto) [Clique aqui](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)<br/>
