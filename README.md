@@ -29,11 +29,8 @@ Siga os seguintes passos:
 `$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
 `$yaourt -S abntex2 `<br/>
 
-2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:<br/>
-Primeiro instale o gerenciador de pacotes Flatpak:<br/>
-`$sudo apt install flatpak`<br/>
-logo entao o editor<br/>
-`$sudo apt install `
+2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
+`$sudo apt install texstudio `
 
 
 ## Observações
