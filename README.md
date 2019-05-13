@@ -22,6 +22,11 @@ Siga os seguintes passos:
 
 > Consulte o [manual de referências](http://get-software.net/macros/latex/contrib/abntex2/doc/abntex2cite-alf.pdf) para entender como manter a bibliografia e fazer citações no seu documento.
 
+## Como instalar editor e bibliotecas?
+> Distribuicoes basedas em Arch Linux
+Para instalar o editor Latex TexStudio:
+1. `sudo pacman -S texstudio`
+
 ## Observações
 
 O UNEMAT-TeX é fornecido gratuitamente e sem garantias e pode ser redistribuído livremente para fins acadêmicos. Trata-se de um produto extra-oficial e não está oficialmente vinculado a UNEMAT.
