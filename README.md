@@ -23,13 +23,17 @@ Siga os seguintes passos:
 > Consulte o [manual de referências](http://get-software.net/macros/latex/contrib/abntex2/doc/abntex2cite-alf.pdf) para entender como manter a bibliografia e fazer citações no seu documento.
 
 ## Como instalar editor e bibliotecas?
-1. Para instalar o editor Latex TexStudio no Manjaro:<br/>
+1. Para instalar o editor Latex TexStudio no Windows 10:<br/>
+Texstudio [Clique aqui](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)
+
+https://miktex.org/download
+2. Para instalar o editor Latex TexStudio no Manjaro:<br/>
 `sudo pacman -S texstudio`<br/>
 > Bibliotecas<br/>
 `$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
 `$yaourt -S abntex2 `<br/>
 
-2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
+3. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
 `$sudo apt install texstudio`<br/>
 > Bibliotecas<br/>
 `$sudo apt install texlive-publishers texlive-lang-portuguese texlive-latex-extra texlive-fonts-recommended`
