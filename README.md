@@ -4,7 +4,7 @@ O UNEMAT-TeX é um modelo baseado no [abnTeX2](http://www.abntex.net.br/) desenv
 
 ## Modelos disponíveis
 
-O IFTO-TeX procura implementar o Regulamento de Trabalho de Conclusão de Curso (TCC) dos Cursos de Graduação Presenciais da UNEMAT. Ele inclui os modelos:
+O UNEMAT-TeX procura implementar o Regulamento de Trabalho de Conclusão de Curso (TCC) dos Cursos de Graduação Presenciais da UNEMAT. Ele inclui os modelos:
 
 * Pré-projeto do TCC
 * Trabalho de Conclusão de Curso (TCC)
