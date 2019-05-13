@@ -27,8 +27,8 @@ Siga os seguintes passos:
 `sudo pacman -S texstudio`
 
 2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:<br/>
-primeiro instale o gerenciador de pacotes Flatpak:<br/>
-`$sudo apt install flatpak`
+Primeiro instale o gerenciador de pacotes Flatpak:<br/>
+`$sudo apt install flatpak`<br/>
 logo entao o editor<br/>
 `$sudo apt install `
 
