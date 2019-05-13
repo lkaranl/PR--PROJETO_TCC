@@ -28,7 +28,7 @@ Siga os seguintes passos:
 Texstudio (Editor de texto) [Clique aqui](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)<br/>
 MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe)
 
-2. Para instalar o editor Latex TexStudio no Manjaro:<br/>
+2. Para instalar o Latex TexStudio no Manjaro:<br/>
 `sudo pacman -S texstudio`<br/>
 > Bibliotecas<br/>
 `$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
