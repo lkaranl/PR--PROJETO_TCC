@@ -27,7 +27,7 @@ Siga os seguintes passos:
 1. Para instalar o editor Latex TexStudio no Windows 10:<br/>
 Texstudio (Editor de texto) [Clique aqui](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)<br/>
 MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe)<br/>
-> Observacao: Quando compilado pela primeira vez, no windows, geralmente demora um pouco, pois ele está pesquisando e instalando as bibliotecas faltantes. 
+> Observação: Quando compilado pela primeira vez, no windows, geralmente demora um pouco, pois ele está pesquisando e instalando as bibliotecas faltantes. 
 
 2. Para instalar o Latex TexStudio no Manjaro:<br/>
 `sudo pacman -S texstudio`<br/>
