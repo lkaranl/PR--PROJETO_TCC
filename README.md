@@ -23,10 +23,11 @@ Siga os seguintes passos:
 > Consulte o [manual de referências](http://get-software.net/macros/latex/contrib/abntex2/doc/abntex2cite-alf.pdf) para entender como manter a bibliografia e fazer citações no seu documento.
 
 ## Como instalar editor e bibliotecas?
-* Para usar o Latex voce precisa ter instaldo no sua maquina um editor de texto latex, compilador latex e algumas bibliotecas para o uso de pacotes expecificos, como o da ABNT.<br/>
+* Para usar o Latex você precisa ter instalado na sua máquina um editor de texto Latex, compilador Latex e algumas bibliotecas para o uso de pacotes específicos, como o da ABNT.<br/>
 1. Para instalar o editor Latex TexStudio no Windows 10:<br/>
 Texstudio (Editor de texto) [Clique aqui](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)<br/>
-MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe)
+MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe)<br/>
+> Observacao: Quando compilado pela primeira vez, no windows, geralmente demora um pouco, pois ele está pesquisando e instalando as bibliotecas faltantes. 
 
 2. Para instalar o Latex TexStudio no Manjaro:<br/>
 `sudo pacman -S texstudio`<br/>
