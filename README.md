@@ -24,10 +24,10 @@ Siga os seguintes passos:
 
 ## Como instalar editor e bibliotecas?
 1. Para instalar o editor Latex TexStudio no Manjaro:<br/>
-`sudo pacman -S texstudio`
-1.2 Bibliotecas
-`sudo pacman -S texlive-publishers texlive-latexextra`
-`$yaourt -S abntex2 `
+`sudo pacman -S texstudio`<br/>
+1.2 Bibliotecas<br/>
+`sudo pacman -S texlive-publishers texlive-latexextra`<br/>
+`$yaourt -S abntex2 `<br/>
 
 2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:<br/>
 Primeiro instale o gerenciador de pacotes Flatpak:<br/>
