@@ -23,14 +23,13 @@ Siga os seguintes passos:
 > Consulte o [manual de referências](http://get-software.net/macros/latex/contrib/abntex2/doc/abntex2cite-alf.pdf) para entender como manter a bibliografia e fazer citações no seu documento.
 
 ## Como instalar editor e bibliotecas?
-Distribuicoes basedas em Arch Linux
-1. Para instalar o editor Latex TexStudio no Manjaro:
+1. Para instalar o editor Latex TexStudio no Manjaro:<br/>
 `sudo pacman -S texstudio`
 
-2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:
-primeiro instale o gerenciador de pacotes Flatpak:
+2. Para instalar o editor Latex TexStudio no Ubuntu ou Mint:<br/>
+primeiro instale o gerenciador de pacotes Flatpak:<br/>
 `$sudo apt install flatpak`
-logo entao o editor
+logo entao o editor<br/>
 `$sudo apt install `
 
 
