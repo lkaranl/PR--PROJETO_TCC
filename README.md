@@ -38,7 +38,7 @@ MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32
 3. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
 `$sudo apt install texstudio`<br/>
 > Bibliotecas<br/>
-`$sudo apt install texlive-publishers texlive-lang-portuguese texlive-latex-extra texlive-fonts-recommended`
+`$sudo apt install texlive-publishers texlive-lang-portuguese texlive-latex-extra texlive-fonts-recommended lmodern`
 
 
 ## Observações
