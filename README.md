@@ -1,5 +1,7 @@
 # UNEMAT-TeX
 
+![all text](https://github.com/lkaranl/PRE-PROJETO-TCC-LATEX/raw/master/QR_LaTeX.png)
+
 O UNEMAT-TeX é um modelo baseado no [abnTeX2](http://www.abntex.net.br/) desenvolvido para auxiliar os alunos da Universidade do Estado de Mato Grosso (UNEMAT) em seus trabalhos de conclusão de curso. O UNEMAT-TeX é configurável e adaptável para ser utilizado em praticamente todos os cursos da UNEMAT. Espera-se que o projeto seja um modelo de trabalho acadêmico que implemente todas as exigências das normas da ABNT sem a necessidade de se preocupar com o estilo ou formatação do documento.
 
 ## Modelos disponíveis
