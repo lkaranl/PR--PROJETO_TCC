@@ -31,11 +31,11 @@ Texstudio (Editor de texto) [Clique aqui](https://github.com/texstudio-org/texst
 MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe)<br/>
 > Observação: Quando compilado pela primeira vez, no windows, geralmente demora um pouco, pois ele está pesquisando e instalando as bibliotecas faltantes. 
 
-2. Para instalar o Latex TexStudio no Manjaro:<br/>
+2. Para instalar o Latex TexStudio no Arch Linux e derivados:<br/>
 `$sudo pacman -S texstudio`<br/>
 > Bibliotecas<br/>
 `$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
-`$yaourt -S abntex2 `<br/>
+`$yay -S abntex2 `<br/>
 
 3. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
 `$sudo apt install texstudio`<br/>
