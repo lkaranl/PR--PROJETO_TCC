@@ -34,7 +34,7 @@ MikTex (Compilador) [Clique aqui](https://miktex.org/download/ctan/systems/win32
 2. Para instalar o Latex TexStudio no Arch Linux e derivados:<br/>
 `$sudo pacman -S texstudio`<br/>
 > Bibliotecas<br/>
-`$sudo pacman -S texlive-publishers texlive-latexextra`<br/>
+`$sudo pacman -S texlive-publishers texlive-latexextra texlive-science`<br/>
 `$yay -S abntex2 `<br/>
 
 3. Para instalar o editor Latex TexStudio no Ubuntu ou Mint: (testado no Xubunto 19.04)<br/>
